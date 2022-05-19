@@ -1,0 +1,14 @@
+node_modules
+.env
+.vscode
+.idea
+.deps
+.openzeppelin
+.DS_Store
+coverage
+coverage.json
+deployments
+
+#Hardhat files
+cache
+artifacts
